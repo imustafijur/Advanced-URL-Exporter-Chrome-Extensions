@@ -54,7 +54,7 @@ Best of all, **URL Export** is completely free and available to everyone!
 
 You can download the latest version of **URL Export** directly from this page. Simply click the link below:
 
-[Download URL Export]([/ULR-Export-Chrome-Extensions/releases](https://github.com/imustafijur/ULR-Export-Chrome-Extensions/releases))
+[Download URL Export](https://github.com/imustafijur/ULR-Export-Chrome-Extensions/releases)
 
 ## Support
 
