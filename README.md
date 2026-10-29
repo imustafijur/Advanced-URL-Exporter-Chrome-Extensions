@@ -21,7 +21,7 @@ Best of all, **Advanced URL Exporter** is completely free and available to every
 ## **How to Use**
 
 1. **Download the Extension**:
-   - Click the "[Download](https://github.com/imustafijur/ULR-Export-Chrome-Extensions/releases)" button on this page to get the extension files.
+   - Click the "[Download](https://github.com/imustafijur/ULR-Export-Chrome-Extensions/releases)" button on this page to get the extension files. Download now
 
 2. **Install the Extension in Chrome**:
    - Open Chrome and go to `chrome://extensions/`.
@@ -65,3 +65,5 @@ We appreciate your feedback and are committed to making **Advanced URL Exporter*
 ## **License**
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
+
+
